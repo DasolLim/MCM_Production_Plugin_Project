@@ -20,6 +20,9 @@ Develop functions in C# to operate “Summary Registers” option
 
 ## Files:
 LoggingManager.cs
+
 LoggingManager.cs[Design]
+
 LoggingManager.Designer.cs
+
 LoggingManager.resx
