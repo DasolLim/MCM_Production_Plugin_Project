@@ -26,3 +26,4 @@ LoggingManager.cs[Design]
 LoggingManager.Designer.cs
 
 LoggingManager.resx
+
